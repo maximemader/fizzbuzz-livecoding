@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6f58fa1-d653-464b-b716-974b1879dc1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/src/test/java/ProgramIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/src/test/java/ProgramProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/src/test/java/ProgramUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/src/test/resources/Program.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-closed-box/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-livecoding/fizzbuzz-livecoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz-livecoding/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/FizzBuzzAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/ModulusBasedFizzBuzzAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProgramIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProgramUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/algorithms/ModulusBasedFizzBuzzAlgorithmProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/algorithms/ModulusBasedFizzBuzzAlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Program.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Htbp26hRnkJRoAsGecI1Q0smLy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mmader/Documents/GitHub/fizzbuzz-livecoding/fizzbuzz-open-box/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmader\Documents\GitHub\fizzbuzz-livecoding\fizzbuzz-open-box\src\test\java" />
+      <recent name="C:\Users\mmader\Documents\GitHub\fizzbuzz-livecoding\fizzbuzz-open-box\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mmader\Documents\GitHub\fizzbuzz-livecoding\fizzbuzz-open-box\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.fizzbuzz-open-box [test]">
+    <configuration name="All in fizzbuzz-open-box" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz-open-box" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramIntegrationTest.goldenMasterTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz-open-box" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramIntegrationTest" />
+      <option name="METHOD_NAME" value="goldenMasterTesting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramUnitTest.shouldPrintFizzBuzzAlgorithmOutputFor1To100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz-open-box" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramUnitTest" />
+      <option name="METHOD_NAME" value="shouldPrintFizzBuzzAlgorithmOutputFor1To100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fizzbuzz-open-box [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.fizzbuzz-open-box [test]" />
+        <item itemvalue="JUnit.ProgramIntegrationTest.goldenMasterTesting" />
+        <item itemvalue="JUnit.All in fizzbuzz-open-box" />
+        <item itemvalue="JUnit.ProgramUnitTest.shouldPrintFizzBuzzAlgorithmOutputFor1To100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6f58fa1-d653-464b-b716-974b1879dc1a" name="Changes" comment="" />
+      <created>1669107507484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669107507484</updated>
+      <workItem from="1669107508900" duration="1409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fizzbuzz-closed-box/fizzbuzz-closed-box.iml" filepath="$PROJECT_DIR$/fizzbuzz-closed-box/fizzbuzz-closed-box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fizzbuzz-livecoding/fizzbuzz-livecoding.iml" filepath="$PROJECT_DIR$/fizzbuzz-livecoding/fizzbuzz-livecoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fizzbuzz-open-box/fizzbuzz-open-box.iml" filepath="$PROJECT_DIR$/fizzbuzz-open-box/fizzbuzz-open-box.iml" />
+    </modules>
+  </component>
+</project>
