@@ -134,7 +134,6 @@ public class ModulusBasedFizzBuzzAlgorithmTest {
             Assertions.assertEquals(expected, actual);
         }
 
-        @Disabled
         @ParameterizedTest
         @CsvSource({"1, 1", "2, 2", "3, Fizz", "4, 4", "5, Buzz", "15, FizzBuzz"})
         // Don't fall to the dark side of the force, err, of oversimplification

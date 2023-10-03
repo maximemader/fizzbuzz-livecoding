@@ -1,7 +1,7 @@
-import net.jqwik.api.*;
-import net.jqwik.api.arbitraries.IntegerArbitrary;
-import org.junit.jupiter.api.*;
-import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Nested;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
@@ -121,7 +121,7 @@ public class ProgramUnitTest {
             Assertions.assertEquals(expected, actual);
         }
 
-        @Disabled
+
         @ParameterizedTest
         @CsvSource({"1, 1", "2, 2", "3, Fizz", "4, 4", "5, Buzz", "15, FizzBuzz"})
         // Don't fall to the dark side of the force, err, of oversimplification

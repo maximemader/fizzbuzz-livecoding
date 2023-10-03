@@ -2,6 +2,9 @@ package algorithms;
 
 public class ModulusBasedFizzBuzzAlgorithm implements FizzBuzzAlgorithm {
     public String computeFizzBuzz(int value) {
+        if(value <= 0)
+            throw new IllegalArgumentException();
+
         final var isMultipleOf3 = value % 3 == 0;
         final var isMultipleOf5 = value % 5 == 0;
 

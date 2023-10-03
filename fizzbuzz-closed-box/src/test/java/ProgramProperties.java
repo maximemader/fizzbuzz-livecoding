@@ -1,7 +1,6 @@
 import net.jqwik.api.*;
 import net.jqwik.api.arbitraries.IntegerArbitrary;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Disabled;
 
 public class ProgramProperties {
     /*
@@ -29,7 +28,6 @@ public class ProgramProperties {
     private static final String NOT_MULTIPLE_OF_3_AND_NOT_MULTIPLE_OF_5_PROVIDER
             = "notMultipleOf3AndNotMultipleOf5Provider";
 
-    @Disabled
     @Property
     void given_out_of_range_integers_should_throw_illegal_argument_exception(
             @ForAll(ARGUMENT_OUT_OF_RANGE_PROVIDER) int input
