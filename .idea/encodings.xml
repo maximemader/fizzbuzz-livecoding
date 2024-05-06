@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/fizzbuzz-closed-box/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fizzbuzz-closed-box/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fizzbuzz-livecoding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fizzbuzz-livecoding/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fizzbuzz-open-box/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fizzbuzz-open-box/src/main/resources" charset="UTF-8" />
   </component>

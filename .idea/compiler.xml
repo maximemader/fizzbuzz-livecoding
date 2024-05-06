@@ -11,11 +11,6 @@
         <module name="fizzbuzz-closed-box" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="fizzbuzz-closed-box" target="19" />
-      <module name="fizzbuzz-livecoding" target="19" />
-      <module name="fizzbuzz-open-box" target="19" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
